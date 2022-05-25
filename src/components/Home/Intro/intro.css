@@ -81,15 +81,6 @@
         border-radius: 1px;
     }
 
-    /* @keyframes slideshow {
-        0%{margin-left: 0%;}
-        20%{margin-left: 0%;}
-        40%{margin-left: -100%;}
-        60%{margin-left: -100%;}
-        80%{margin-left: -200%;}
-        100%{margin-left: -200%;}
-    } */
-
     .intro-img:hover {
         transform: scale(1);
     }
